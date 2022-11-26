@@ -12,7 +12,9 @@ Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico
 **Aprendendo sozinho:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) -- 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) -- 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) -- 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 
 **Linguagens que eu ja uso:**
 
