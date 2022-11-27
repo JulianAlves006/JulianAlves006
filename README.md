@@ -22,6 +22,7 @@ Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) -- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) -- 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) -- 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) -- 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) -- 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) -- 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) -- 
