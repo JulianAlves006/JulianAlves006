@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianAlves006&layout=demo&theme=algolia&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianAlves006&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianAlves006&layout=demo&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianAlves006&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
@@ -28,6 +28,15 @@ Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) -- 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) 
 
+![Julian GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianAlves006&show_icons=true&theme=dracula)
 
 
-![Julian GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianAlves006&show_icons=true&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianAlves006&theme=dracula)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianAlves006&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianAlves006&theme=dracula)          
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianAlves006&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulianAlves006&theme=dracula&utcOffset=8)
