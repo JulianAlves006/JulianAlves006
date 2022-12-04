@@ -1,6 +1,6 @@
 Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
-**Atualmente estou aprendendo no curso as linguagens:**
+**Atualmente estou aprendendo no curso:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) -- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) -- 
@@ -15,7 +15,7 @@ Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) -- 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 
-**Linguagens que eu ja uso:**
+**Ja ultilizo:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) -- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) -- 
