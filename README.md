@@ -34,7 +34,7 @@ Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianAlves006&theme=dracula)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianAlves006&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianAlves006&theme=dracula)          
+     
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianAlves006&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulianAlves006&theme=dracula&utcOffset=8)
 
