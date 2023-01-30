@@ -1,4 +1,4 @@
-Meu nome é Julian Alves. Estou atualmente no segundo trimestre do curso tecnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
+Meu nome é Julian Alves. Estou atualmente no terceiro trimestre do curso tecnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
 **Atualmente estou aprendendo no curso:**
 
