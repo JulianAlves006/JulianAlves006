@@ -14,5 +14,3 @@ Atualmente sou um programador iniciante, estou atualmente só estudando programa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Julianalves006&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
