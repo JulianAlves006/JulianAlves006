@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou um programador iniciante, estou atualmente só estudando programação aprendendo novas linguagens e etc. No meu curso que estou fazendo no IFSC de Jaraguá do Sul, estou aprendendo vários tópicos interessantes de programação, além de estar estudando por conta própria em casa.
+Currently, I'm a beginner programmer. I'm currently focused on studying programming, learning new languages, and so on. In the course I'm taking at IFSC in Jaraguá do Sul, I'm learning various interesting programming topics, in addition to studying on my own at home.
 
 
 ## 🌐 Socials:
