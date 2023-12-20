@@ -1,6 +1,5 @@
 # 💫 About Me:
-Currently, I'm a beginner programmer. I'm currently focused on studying programming, learning new languages, and so on. In the course I'm taking at IFSC in Jaraguá do Sul, I'm learning various interesting programming topics, in addition to studying on my own at home.
-
+I am Julian Alves, a full-stack web developer. I studied systems development at IFSC (Instituto Federal de Santa Catarina). Currently, I work in customer support at Clinicorp, and I am also in high school. However, in the future, I plan to pursue a college degree in the IT field to eventually work in that area.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julian.alvs_006_) 
