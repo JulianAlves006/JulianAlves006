@@ -1,5 +1,25 @@
 # 💫 About Me:
-I am Julian Alves, a full-stack web developer. I studied systems development at IFSC (Instituto Federal de Santa Catarina). Currently, I work in customer support at Clinicorp, and I am also in high school. However, in the future, I plan to pursue a college degree in the IT field to eventually work in that area.
+Olá, eu sou Julian Alves — um desenvolvedor web full-stack apaixonado, com uma base sólida em engenharia de software.
+
+Atualmente estou cursando Engenharia de Software e trabalho na Clinicorp, atuando na área de Quality Assurance (QA). Embora minha função atual seja focada em garantir a qualidade do produto e testes, tenho me envolvido ativamente com atividades relacionadas ao desenvolvimento, o que tem fortalecido minhas habilidades técnicas e analíticas.
+
+Na Clinicorp, tenho trabalhado de forma próxima com o time de desenvolvimento, o que me permitiu:
+
+- Depurar e analisar problemas no front-end e back-end com uma mentalidade de desenvolvedor
+
+- Escrever e manter testes automatizados utilizando frameworks modernos de JavaScript
+
+- Compreender a arquitetura do sistema e participar de revisões de código
+
+- Colaborar utilizando Git, metodologias ágeis e pipelines de CI/CD
+
+- Contribuir para melhorias em ferramentas internas por meio de scripts e automações
+
+Anteriormente, estudei Desenvolvimento de Sistemas no IFSC (Instituto Federal de Santa Catarina) e continuo desenvolvendo projetos pessoais para aprimorar minhas habilidades como desenvolvedor full-stack — utilizando tecnologias como JavaScript, Node.js, React, TypeScript e bancos de dados SQL/NoSQL.
+
+Minha experiência em QA me trouxe uma visão única sobre código limpo, usabilidade e confiabilidade — qualidades que hoje levo comigo para o desenvolvimento. Estou em transição ativa para a área de desenvolvimento e motivado para contribuir com equipes inovadoras, aplicando meu conhecimento técnico e minha vivência prática com produto.
+
+Vamos construir algo incrível juntos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julian.alvs_006_) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-alves-09b10426b/)
