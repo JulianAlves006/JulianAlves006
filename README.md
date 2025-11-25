@@ -1,7 +1,7 @@
 # 💫 About Me
 Olá! Eu sou **Julian Alves**, desenvolvedor web **full-stack** apaixonado por tecnologia e com uma base sólida em **engenharia de software**.  
 
-Atualmente curso **Engenharia de Software** e atuo na **Clinicorp**, na área de **Quality Assurance (QA)**. Minha experiência em QA me trouxe uma visão única sobre **qualidade, usabilidade e confiabilidade de sistemas** — conhecimentos que hoje aplico diretamente no **desenvolvimento de software**.  
+Atualmente curso **Engenharia de Software** e atuo na **Clinicorp**, na área de **Quality Assurance (QA)**. Minha experiência em QA me trouxe uma visão única sobre **qualidade, usabilidade e confiabilidade de sistemas**, conhecimentos que hoje aplico diretamente no **desenvolvimento de software**.  
 
 Mesmo focando em QA, estive sempre próximo ao time de desenvolvimento, o que me permitiu:  
 - Depurar e analisar problemas em **front-end** e **back-end** com visão de desenvolvedor  
